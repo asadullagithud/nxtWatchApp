@@ -1,0 +1,99 @@
+.img-25{
+    width: 18%;
+    height: 18%;
+}
+.para-side{
+    color:  #1e293b;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 700;
+}
+.para-side1{
+    color:  #1e293b;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+}
+.container-side{
+    width: 20vh;
+    /*border: 2px solid black;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 92vh;
+    padding-top: 15px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-right:1px solid rgb(226, 223, 223) ;
+    /*-webkit-box-shadow: 5px 14px 43px -16px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 14px 43px -16px rgba(0,0,0,0.75);
+    box-shadow: 5px 14px 43px -16px rgba(0,0,0,0.75);*/
+}
+.container-side3{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    /*border: 2px solid black;*/
+}
+.heading14{
+    color:  #1e293b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+}
+.container-side01{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.container-side-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.button--1{
+    padding-right: 9px;
+    padding-left: 3px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    justify-content: flex-start;
+    border-radius: 3px;
+    align-items: center;
+    color: #747474b2;
+    /*border: 1px solid #909090; */
+    background-color: #ffffff;
+    font-weight: 500;
+    width: 16vh;
+    display: flex;
+}
+.button--2{
+    padding-right: 7px;
+    padding-left: 4px;
+    padding-top: 4px;
+    padding-bottom: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    justify-content: flex-start;
+    border-radius: 3px;
+    color: black;
+    align-items: center;
+    /*border: 1px solid #909090; */
+    background-color: rgb(211, 226, 233);
+    font-weight: 650;
+    width: 20vh;
+    display: flex;
+}
+.container-side-02{
+    padding: 15px;
+}

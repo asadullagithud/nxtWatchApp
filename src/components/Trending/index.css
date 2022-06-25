@@ -1,0 +1,10 @@
+.container-trending{
+    padding: 15px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+flex-wrap: wrap;
+overflow-y: scroll;
+width: auto;
+height: 88vh;
+}

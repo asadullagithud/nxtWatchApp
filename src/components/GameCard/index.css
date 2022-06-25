@@ -1,0 +1,47 @@
+.container-game{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid; */
+    width: 22vh;
+    height: 38vh;
+    margin-right: 18px;
+    margin-left: 5px;
+}
+.container-game01{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+/*border: 2px solid ;*/
+}
+.container-game02{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+width: 50%;
+}
+.para-game{
+    font-family: "Roboto";
+    font-size: 11px;
+    font-weight: 400;
+    color: black;
+    padding-top:0px ;
+    height: 0vh;
+}
+.para-game01{
+    font-family: "Roboto";
+    font-size: 9px;
+    font-weight: 400;
+    color: rgb(146, 146, 146);
+    padding-right: 5px;
+}
+.container-card-ul{
+    padding-left: 11px;
+}
+.icon-image-game{
+    width: 22vh;
+    height: 29vh;
+}
